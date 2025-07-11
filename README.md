@@ -47,10 +47,7 @@ The **Broker** manages a **queue of proving jobs**, acting as a dispatcher betwe
 - **GPU:** High-end (RTX 3090 / 4090 / A100 / H100)  
 - **Storage:** >1 TB SSD  
 - **CPU:** 8+ vCPUs (ideally 16+)  
-
-
-I am using a 64gb, 24 vCore ram and effectively proving 1 Agent. 
-<img width="1455" height="821" alt="image" src="https://github.com/user-attachments/assets/ad54b9d2-e879-4c12-a78e-60e82893adaf" />
+\\\
 
 ---
  🛠 You can run all components on a single high-spec server or distribute them across multiple machines depending on your scalability goals.
